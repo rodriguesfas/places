@@ -8,15 +8,17 @@ Places API 🇧🇷
 ### Get State
 
 ```bash
-GET
-Host: rodriguesfas.github.io/places/states.json HTTP/1.1
+GET /places/states.json
+Host: https://rodriguesfas.github.io HTTP/1.1
 ```
+[https://rodriguesfas.github.io/places/states.json](https://rodriguesfas.github.io/places/states.json)
 
 ### Get City
 
 ```bash
-GET
-Host: rodriguesfas.github.io/places/cities.json HTTP/1.1
+GET /places/cities.json
+Host: https://rodriguesfas.github.io HTTP/1.1
 ```
+[https://rodriguesfas.github.io/places/cities.json](https://rodriguesfas.github.io/places/cities.json)
 
 ## Credits
