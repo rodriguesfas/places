@@ -1,6 +1,6 @@
-# places
+# Places
 
-Location API 🇧🇷
+Places API 🇧🇷
 
 
 ## User Guide
