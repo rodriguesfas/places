@@ -1,272 +1,137 @@
 [
   {
     "id": 11,
-    "acronym": "RO",
     "name": "Rondônia",
-    "region": {
-      "id": 1,
-      "acronym": "N",
-      "name": "Norte"
-    }
+    "abbr": "RO"
   },
   {
     "id": 12,
-    "acronym": "AC",
     "name": "Acre",
-    "region": {
-      "id": 1,
-      "acronym": "N",
-      "name": "Norte"
-    }
+    "abbr": "AC"
   },
   {
     "id": 13,
-    "acronym": "AM",
     "name": "Amazonas",
-    "region": {
-      "id": 1,
-      "acronym": "N",
-      "name": "Norte"
-    }
+    "abbr": "AM"
   },
   {
     "id": 14,
-    "acronym": "RR",
     "name": "Roraima",
-    "region": {
-      "id": 1,
-      "acronym": "N",
-      "name": "Norte"
-    }
+    "abbr": "RR"
   },
   {
     "id": 15,
-    "acronym": "PA",
     "name": "Pará",
-    "region": {
-      "id": 1,
-      "acronym": "N",
-      "name": "Norte"
-    }
+    "abbr": "PA"
   },
   {
     "id": 16,
-    "acronym": "AP",
     "name": "Amapá",
-    "region": {
-      "id": 1,
-      "acronym": "N",
-      "name": "Norte"
-    }
+    "abbr": "AP"
   },
   {
     "id": 17,
-    "acronym": "TO",
     "name": "Tocantins",
-    "region": {
-      "id": 1,
-      "acronym": "N",
-      "name": "Norte"
-    }
+    "abbr": "TO"
   },
   {
     "id": 21,
-    "acronym": "MA",
     "name": "Maranhão",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "MA"
   },
   {
     "id": 22,
-    "acronym": "PI",
     "name": "Piauí",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "PI"
   },
   {
     "id": 23,
-    "acronym": "CE",
     "name": "Ceará",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "CE"
   },
   {
     "id": 24,
-    "acronym": "RN",
     "name": "Rio Grande do Norte",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "RN"
   },
   {
     "id": 25,
-    "acronym": "PB",
     "name": "Paraíba",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "PB"
   },
   {
     "id": 26,
-    "acronym": "PE",
     "name": "Pernambuco",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "PE"
   },
   {
     "id": 27,
-    "acronym": "AL",
     "name": "Alagoas",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "AL"
   },
   {
     "id": 28,
-    "acronym": "SE",
     "name": "Sergipe",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "SE"
   },
   {
     "id": 29,
-    "acronym": "BA",
     "name": "Bahia",
-    "region": {
-      "id": 2,
-      "acronym": "NE",
-      "name": "Nordeste"
-    }
+    "abbr": "BA"
   },
   {
     "id": 31,
-    "acronym": "MG",
     "name": "Minas Gerais",
-    "region": {
-      "id": 3,
-      "acronym": "SE",
-      "name": "Sudeste"
-    }
+    "abbr": "MG"
   },
   {
     "id": 32,
-    "acronym": "ES",
     "name": "Espírito Santo",
-    "region": {
-      "id": 3,
-      "acronym": "SE",
-      "name": "Sudeste"
-    }
+    "abbr": "ES"
   },
   {
     "id": 33,
-    "acronym": "RJ",
     "name": "Rio de Janeiro",
-    "region": {
-      "id": 3,
-      "acronym": "SE",
-      "name": "Sudeste"
-    }
+    "abbr": "RJ"
   },
   {
     "id": 35,
-    "acronym": "SP",
     "name": "São Paulo",
-    "region": {
-      "id": 3,
-      "acronym": "SE",
-      "name": "Sudeste"
-    }
+    "abbr": "SP"
   },
   {
     "id": 41,
-    "acronym": "PR",
     "name": "Paraná",
-    "region": {
-      "id": 4,
-      "acronym": "S",
-      "name": "Sul"
-    }
+    "abbr": "PR"
   },
   {
     "id": 42,
-    "acronym": "SC",
     "name": "Santa Catarina",
-    "region": {
-      "id": 4,
-      "acronym": "S",
-      "name": "Sul"
-    }
+    "abbr": "SC"
   },
   {
     "id": 43,
-    "acronym": "RS",
     "name": "Rio Grande do Sul",
-    "region": {
-      "id": 4,
-      "acronym": "S",
-      "name": "Sul"
-    }
+    "abbr": "RS"
   },
   {
     "id": 50,
-    "acronym": "MS",
     "name": "Mato Grosso do Sul",
-    "region": {
-      "id": 5,
-      "acronym": "CO",
-      "name": "Centro-Oeste"
-    }
+    "abbr": "MS"
   },
   {
     "id": 51,
-    "acronym": "MT",
     "name": "Mato Grosso",
-    "region": {
-      "id": 5,
-      "acronym": "CO",
-      "name": "Centro-Oeste"
-    }
+    "abbr": "MT"
   },
   {
     "id": 52,
-    "acronym": "GO",
     "name": "Goiás",
-    "region": {
-      "id": 5,
-      "acronym": "CO",
-      "name": "Centro-Oeste"
-    }
+    "abbr": "GO"
   },
   {
     "id": 53,
-    "acronym": "DF",
     "name": "Distrito Federal",
-    "region": {
-      "id": 5,
-      "acronym": "CO",
-      "name": "Centro-Oeste"
-    }
+    "abbr": "DF"
   }
 ]
